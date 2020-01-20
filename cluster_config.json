@@ -1,0 +1,23 @@
+{
+    "nombreCluster" : "",
+    "tipoCluster" : "",
+    "ipCluster" : "",
+    "discos" : [
+        {
+            "tipo" : "quorum",
+            "nombre": "",
+            "letra" : ""
+        },
+        {
+            "tipo" : "base",
+            "nombre" : "DISCO_BASE",
+            "letra" : ""
+        }
+    ],
+    "nombreCarpetasMountPoint" : [
+        {
+            "nombreCarpeta" : "",
+            "uid" : ""
+        }
+    ]
+}
